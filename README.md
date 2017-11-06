@@ -30,6 +30,6 @@
 	mkvirtualenv --no-site-packages -p /usr/bin/python3 django
 	pip install django
 
-7º [Atom](https://atom-installer.github.com/v1.21.2/atom-amd64.deb?s=1509401758&ext=.deb)
+7º [Atom](https://atom-installer.github.com/v1.21.2/atom-amd64.deb?s=1509401758&ext=.deb) editor de texto
 	
 	
