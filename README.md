@@ -41,7 +41,7 @@
 	
 	C:\Users\"NomeDoUsuário"\AppData\Local\Programs\Python\Python36
 
-3º Abra o cmd em 'C:\Users\"NomeDoUsuário">' e digite os dois comando abaixo.
+3º Abra o cmd em 'C:\Users\NomeDoUsuário>' e digite os dois comando abaixo.
 
 	python -m pip install virtualenv
 	mkdir virtual
