@@ -39,7 +39,7 @@
 
 2º Copie o path abaixo e coloque na variável do SO, Propriedades do Sistema > Configurações avançadas do sistema > Variáveis de ambiente > Edite a variável path e cole o caminho abaixo.
 	
-	C:\Users\Geovane\AppData\Local\Programs\Python\Python36
+	C:\Users\"NomeDoUsuário"\AppData\Local\Programs\Python\Python36
 
 3º Abra o cmd em 'C:\Users\"NomeDoUsuário">' e digite os dois comando abaixo.
 
