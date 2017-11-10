@@ -31,5 +31,23 @@
 	pip install django
 
 7º [Atom](https://atom-installer.github.com/v1.21.2/atom-amd64.deb?s=1509401758&ext=.deb) editor de texto
+
+
+## Instalação em ambiente Windows
+
+1º Baixe o [Python3.6](https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64.exe) compatível com seu SO
+
+2º Copie o path abaixo e coloque na variável do SO, Propriedades do Sistema > Configurações avançadas do sistema > Variáveis de ambiente > Edite a variável path e cole o caminho abaixo.
 	
+	C:\Users\Geovane\AppData\Local\Programs\Python\Python36
+
+3º Baixe o [pip](https://bootstrap.pypa.io/get-pip.py), abra o cmd na pasta do arquivo e cole o comando abaixo.
+
+	python get-pip.py
+
+4º instale o Django, cole comando abaixo
+
+	python -m pip install django
+
+5º [Atom](https://atom-installer.github.com/v1.21.2/atom-amd64.deb?s=1509401758&ext=.deb) editor de texto
 	
