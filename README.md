@@ -52,7 +52,7 @@
 
 4º Depois instale o Django, cole comando abaixo
 
-	python -m pip install django
+	pip install django
 
 5º [Atom](https://atom-installer.github.com/v1.21.2/atom-amd64.deb?s=1509401758&ext=.deb) editor de texto
 	
