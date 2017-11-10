@@ -41,11 +41,16 @@
 	
 	C:\Users\Geovane\AppData\Local\Programs\Python\Python36
 
-3º Baixe o [pip](https://bootstrap.pypa.io/get-pip.py), abra o cmd na pasta do arquivo e cole o comando abaixo.
+3º Abra o cmd em 'C:\Users\"NomeDoUsuário">' e digite os dois comando abaixo.
 
-	python get-pip.py
+	python -m pip install virtualenv
+	mkdir virtual
+	cd virtual
+	python -m virtualenv django
+	C:\Users\"NomeDoUsuário"\virtual\django\Scripts>activate.bat
+	
 
-4º instale o Django, cole comando abaixo
+4º Depois instale o Django, cole comando abaixo
 
 	python -m pip install django
 
