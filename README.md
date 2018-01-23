@@ -13,7 +13,7 @@
 
 	gedit ~/.bashrc
 
-4º Cole no final do arquvivo .bashrc
+4º Cole no final do arquivo .bashrc
 
 	export PROJECT_HOME=~/www
 	export WORKON_HOME=~/env
