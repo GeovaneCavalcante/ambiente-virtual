@@ -43,11 +43,11 @@
 
 3º Abra o cmd em 'C:\Users\NomeDoUsuário>' e digite os dois comando abaixo.
 
-	python -m pip install virtualenv
+	python -m pip  install virtualenvwrapper-win
 	mkdir virtual
 	cd virtual
-	python -m virtualenv django
-	C:\Users\"NomeDoUsuário"\virtual\django\Scripts>activate.bat
+	mkvirtualenv django
+	workon django
 	
 
 4º Depois instale o Django, cole comando abaixo
