@@ -27,6 +27,7 @@
 
 	sudo pip install --upgrade pip virtualenv setuptools
 	sudo pip install virtualenvwrapper
+	(Reinicie seu terminal) 	
 	mkvirtualenv --no-site-packages -p /usr/bin/python3 django
 	pip install django
 
@@ -44,8 +45,6 @@
 3º Abra o cmd em 'C:\Users\NomeDoUsuário>' e digite os dois comando abaixo.
 
 	python -m pip  install virtualenvwrapper-win
-	mkdir virtual
-	cd virtual
 	mkvirtualenv django
 	workon django
 	
