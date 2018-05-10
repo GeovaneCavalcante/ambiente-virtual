@@ -27,7 +27,7 @@
 
 	sudo pip install --upgrade pip virtualenv setuptools
 	sudo pip install virtualenvwrapper
-	(Reinicie seu terminal) 	
+	source ~/.bashrc 	
 	mkvirtualenv --no-site-packages -p /usr/bin/python3 django
 	pip install django
 
