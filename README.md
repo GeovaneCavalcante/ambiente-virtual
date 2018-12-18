@@ -1,4 +1,4 @@
-# Minicurso introdutório à Web com Python e Django
+# Configuração de Ambiente Virtual Python
 
 ## Instalação em ambiente Linux
 1º Cole no terminal
