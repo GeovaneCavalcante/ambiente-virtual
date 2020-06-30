@@ -28,7 +28,7 @@
 	sudo pip3 install --upgrade pip virtualenv setuptools
 	sudo pip3 install virtualenvwrapper
 	source ~/.bashrc 	
-	mkvirtualenv --no-site-packages -p /usr/bin/python3 django
+	mkvirtualenv -p /usr/bin/python3 django
 	pip3 install django
 
 7º [Atom](https://atom-installer.github.com/v1.21.2/atom-amd64.deb?s=1509401758&ext=.deb) editor de texto
